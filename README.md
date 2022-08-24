@@ -6,7 +6,7 @@
 
 ...but **real**, **lovely** iPhone users all over the world prop our phones up on broken, hand-me-down MagSafe docks, ratchet them into terrible homemade tripod/car windshield mount hybrid monstrosities, or simply rest them on the back of our hands so that we may **type to them on physical keycaps**. 
 
-<img src="/images/firstgen.jpg" alt="Apple Insider First-Gen" style="zoom: 50%;" />
+<img src="https://github.com/ExtraKeys/keys/raw/main/images/firstgen.jpg" alt="Apple Insider First-Gen" style="zoom: 50%;" />
 
 Some of us having been doing so regularly since support for Bluetooth keyboard inputs were first added, (actually at least *one* of us has actually been using an external hardware keyboard with mobile computers since the 1990s... Oh yes. Now you're intrigued, right?,) though nobody can tell you [exactly when this was done](https://appleinsider.com/articles/07/10/15/review_apple_wireless_keyboard_aluminum), or what iPhone OS version first included it. 
 
